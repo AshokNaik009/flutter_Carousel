@@ -20,7 +20,7 @@ class Home extends StatelessWidget {
 class CarouselDemo extends StatefulWidget {
  
  
-  final String title = "Carousel Demo";
+  final String title = "flutter_carouselma";
  
   @override
   CarouselDemoState createState() => CarouselDemoState();
