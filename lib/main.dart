@@ -20,7 +20,7 @@ class Home extends StatelessWidget {
 class CarouselDemo extends StatefulWidget {
  
  
-  final String title = "flutter_carouselma";
+  final String title = "flutter_carousel";
  
   @override
   CarouselDemoState createState() => CarouselDemoState();
@@ -34,7 +34,7 @@ class CarouselDemoState extends State<CarouselDemo> {
     'https://images.unsplash.com/photo-1548369735-f548cbe6a294?ixlib=rb-1.2.1&auto=format&fit=crop&w=377&q=80',
     'https://images.unsplash.com/photo-1529773464063-f6810c569277?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=675&q=80',
     'https://images.unsplash.com/photo-1559478496-eaef498abbed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=334&q=80',
-    'https://images.unsplash.com/photo-1559252676-c735ac416188?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80',
+    'https://images.unsplash.com/photo-1552346318-f82ee4ffa2d4?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80',
    
   ];
  
